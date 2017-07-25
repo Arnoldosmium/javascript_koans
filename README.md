@@ -2,6 +2,6 @@
 
 Koans to learn Javascript (forked from mrdavidlaing/javascript-koans)
 
-## Note for Hack Reactor Students
+Forked from Hack Reactor
 
-__This is *not* the repo you are looking for__. Your repo will have the prefix YYYY-MM- where YYYY and MM are the year and month of your class start date.
+Some 2017 summer trivial work
